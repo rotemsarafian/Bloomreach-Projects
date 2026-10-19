@@ -1,0 +1,5 @@
+-- View: MA_DAILY_888_SE_BLACKLIST
+-- Environment: 888 SE
+-- BRP_ID: 16
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

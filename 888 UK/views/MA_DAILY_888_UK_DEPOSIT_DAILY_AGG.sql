@@ -1,0 +1,5 @@
+-- View: MA_DAILY_888_UK_DEPOSIT_DAILY_AGG
+-- Environment: 888 UK
+-- BRP_ID: 2
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

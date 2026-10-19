@@ -1,0 +1,5 @@
+-- View: MA_DAILY_WH_CDD_NEW_THRESHOLD
+-- Environment: WH UK
+-- BRP_ID: 1
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

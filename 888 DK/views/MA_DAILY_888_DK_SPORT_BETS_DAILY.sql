@@ -1,0 +1,5 @@
+-- View: MA_DAILY_888_DK_SPORT_BETS_DAILY
+-- Environment: 888 DK
+-- BRP_ID: 12
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

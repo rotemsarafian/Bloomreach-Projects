@@ -1,0 +1,5 @@
+-- View: MA_DAILY_WH_ROW_UNSCHEDULED_DATA_READY
+-- Environment: WH ROW
+-- BRP_ID: 8
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

@@ -1,0 +1,5 @@
+-- View: MA_DAILY_MRG_DE_BLACKLIST
+-- Environment: MRG DE
+-- BRP_ID: 13
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

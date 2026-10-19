@@ -1,0 +1,5 @@
+-- View: MA_DAILY_888_IR_SUPERCONTROL
+-- Environment: 888 IR
+-- BRP_ID: 10
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

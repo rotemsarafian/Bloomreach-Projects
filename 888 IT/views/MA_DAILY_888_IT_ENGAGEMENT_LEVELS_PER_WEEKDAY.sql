@@ -1,0 +1,5 @@
+-- View: MA_DAILY_888_IT_ENGAGEMENT_LEVELS_PER_WEEKDAY
+-- Environment: 888 IT
+-- BRP_ID: 4
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

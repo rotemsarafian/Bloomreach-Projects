@@ -1,0 +1,448 @@
+[
+  {
+    "brp_id": 1,
+    "environment_name": "WH UK",
+    "folder": "WH UK",
+    "status": "active",
+    "views": [
+      "MA_DAILY_WH_UK_SESSIONS_MARKETING",
+      "MA_DAILY_BLACKLIST_PLAYERS_WH",
+      "MA_DAILY_WINNING_HORSE_BETS",
+      "MA_DAILY_WINNING_HORSE_FUTURE_EVENTS",
+      "MA_DAILY_WH_FOOTBALL_FUTURE_EVENTS",
+      "MA_DAILY_WH_WINNING_CASINO_BETS_DAILY",
+      "MA_DAILY_WH_WINNING_SPORT_BETS_DAILY",
+      "MA_DAILY_WINNING_ACCA_BETS",
+      "MA_DAILY_WH_PLACED_HORSE_BETS",
+      "MA_DAILY_WINNING_DOG_FUTURE_EVENTS",
+      "MA_DAILY_WINNING_DOG_BETS",
+      "MA_DAILY_WH_CHELTENHAM_HORSES",
+      "MA_DAILY_WH_UK_SUPERCONTROL",
+      "MA_DAILY_WH_UK_FAVORITE_HORSES",
+      "MA_DAILY_WH_UK_FAVORITE_TEAM",
+      "MA_DAILY_WH_GAMING_ANTI_CHRUN",
+      "MA_DAILY_WH_UK_EXCLUDE_BONUS_OPTIMIZATION",
+      "MA_DAILY_WH_GRAND_NATIONAL_HORSES",
+      "MA_NRT_WH_UK_HORSE_RACING_VOID_BETS",
+      "MA_NRT_WH_UK_CUSTOMER_REG_CONSENT",
+      "MA_NRT_WH_UK_BETS",
+      "MA_NRT_WH_UK_CUSTOMER_BALANCE",
+      "MA_NRT_WH_UK_BETS_LEGS",
+      "MA_NRT_WH_UK_BETS_SELECTIONS",
+      "MA_NRT_WH_UK_PAYMENTS_APPROVED",
+      "MA_DAILY_WH_UK_ENGAGEMENT_LEVELS_PER_WEEKDAY",
+      "MA_DAILY_WH_UK_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_WH_UK_SPORT_BETS_FAVE_TEAM",
+      "MA_FULL_WH_UK_SPORT_BETS_FOOTBALL",
+      "MA_FULL_WH_UK_SPORT_BETS_RACING",
+      "MA_FULL_WH_UK_SPORT_BETS_OTHER",
+      "MA_DAILY_WH_UK_SUM_BONUS_BETS",
+      "MA_DAILY_WH_UK_SPORT_FIRST_INPLAY_BET",
+      "MA_DAILY_WH_UK_CUSTOME_BETTING_DAILY_AGGREGATE_MANUAL_LIST",
+      "MA_NRT_WH_UK_BONUS_ENRICHMENT",
+      "MA_DAILY_WH_BONUS_GENEROSITY_DATA",
+      "MA_DAILY_WINNING_HORSE_FUTURE_EVENTS_NEXT_3_DAYS",
+      "MA_DAILY_WH_FOOTBALL_FUTURE_EVENTS_NEXT_3_DAYS",
+      "MA_DAILY_WH_UK_DEPOSIT_HEADROOM_NEW",
+      "MA_NRT_WH_WH_UK_STAKES_RIGA_AGG",
+      "MA_NRT_WH_WH_UK_WINNING_RIGA_AGG",
+      "MA_NRT_WH_NRT_PAGE_VIEWS",
+      "MA_DAILY_WH_CRM_DAILY_2K_REPORT",
+      "MA_DAILY_WH_UK_HV_SEGMENT",
+      "MA_DAILY_WH_UK_FOOTBALL_FIRST_INPLAY_BET",
+      "MA_DAILY_SERVICE_NOTIFICATION_REPORT",
+      "MA_DAILY_WH_CDD_NEW_THRESHOLD",
+      "MA_DAILY_SC_BLACKLIST_PLAYERS_WH_UK",
+      "MA_DAILY_WH_UK_SC_VERIFICATION",
+      "MA_DAILY_WH_UK_SC_ITM",
+      "MA_DAILY_WH_UK_SC_TIMEOUT",
+      "MA_DAILY_WH_UK_SC_BOG",
+      "MA_DAILY_WH_UK_SC_WITHDRAWALS",
+      "MA_NRT_WH_WH_UK_SC_MINDWAY_NRT",
+      "MA_DAILY_WH_VPLAY_CHALLENGES"
+    ]
+  },
+  {
+    "brp_id": 2,
+    "environment_name": "888 UK",
+    "folder": "888 UK",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_UK_SUPERCONTROL",
+      "MA_DAILY_888_UK_SESSIONS_MARKETING",
+      "MA_DAILY_888_UK_LAST_WEEK_BLACKLIST",
+      "MA_DAILY_888_UK_WINNING_CASINO_BETS_DAILY",
+      "MA_DAILY_888_UK_GAMING_ANTI_CHURN",
+      "MA_DAILY_888_UK_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_888_UK_DEPOSIT_HEADROOM",
+      "MA_DAILY_888_UK_DEPOSIT_DAILY_AGG",
+      "MA_DAILY_888_UK_SPORT_BETS_DAILY",
+      "MA_DAILY_888_UK_BETS_DAILY_AGG"
+    ]
+  },
+  {
+    "brp_id": 3,
+    "environment_name": "Exalogic",
+    "folder": "Exalogic",
+    "status": "active",
+    "views": [
+      "MA_FULL_SESSIONS_MARKETING_EXALOGIC",
+      "MA_DAILY_EXALOGIC_BLACKLIST",
+      "MA_DAILY_EXALOGIC_GAMES",
+      "MA_DAILY_EXALOGIC_BETS_CREATED",
+      "MA_DAILY_EXALOGIC_BETS_SETTLED",
+      "MA_DAILY_EXALOGIC_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_EXALOGIC_BLACKLIST_PRODUCT_TEST"
+    ]
+  },
+  {
+    "brp_id": 4,
+    "environment_name": "888 IT",
+    "folder": "888 IT",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_IT_SESSIONS_MARKETING",
+      "MA_DAILY_888_IT_LAST_WEEK_BLACKLIST",
+      "MA_DAILY_888_IT_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_888_IT_ENGAGEMENT_LEVELS_PER_WEEKDAY",
+      "MA_DAILY_888_IT_JACKPOTS",
+      "MA_DAILY_888_IT_HYPER_PERSONALIZATION",
+      "MA_DAILY_888_IT_BLACKLIST"
+    ]
+  },
+  {
+    "brp_id": 5,
+    "environment_name": "WH IR",
+    "folder": "WH IR",
+    "status": "active",
+    "views": [
+      "MA_DAILY_WH_IR_SESSIONS_MARKETING",
+      "MA_DAILY_WH_IR_EXCLUDE_BONUS_OPTIMIZATION",
+      "MA_DAILY_WH_IR_BLACKLIST_PLAYERS",
+      "MA_DAILY_WH_IR_UNSUBSCRIBE",
+      "MA_DAILY_WH_IR_SUPERCONTROL",
+      "MA_NRT_WH_IR_CUSTOMER_REG_CONSENT",
+      "MA_NRT_WH_IR_PAYMENTS_APPROVED",
+      "MA_NRT_WH_IR_BETS",
+      "MA_NRT_WH_IR_BET_LEGS",
+      "MA_NRT_WH_IR_BET_SELECTION",
+      "MA_DAILY_WH_IR_ENGAGEMENT_LEVELS_PER_WEEKDAY",
+      "MA_DAILY_WH_IR_SPORT_BETS_FOOTBALL",
+      "MA_DAILY_WH_IR_SPORT_BETS_OTHER",
+      "MA_DAILY_WH_IR_SPORT_BETS_RACING",
+      "MA_DAILY_WH_IR_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_WH_IR_WINNING_ACCA_BETS",
+      "MA_DAILY_WH_IR_PLACED_HORSE_BETS",
+      "MA_DAILY_WH_IR_FAVORITE_TEAM",
+      "MA_DAILY_WH_IR_WINNING_HORSE_BETS",
+      "MA_DAILY_WH_IR_WINNING_HORSE_FUTURE_EVENTS",
+      "MA_DAILY_WH_IR_FOOTBALL_FUTURE_EVENTS",
+      "MA_DAILY_WH_IR_FAVORITE_HORSES",
+      "MA_NRT_WH_WH_IR_STAKES_RIGA_AGG",
+      "MA_NRT_WH_WH_IR_WINNING_RIGA_AGG",
+      "MA_NRT_WH_CUSTOMER_BALANCE_IR",
+      "MA_DAILY_WH_IR_CUSTOME_BETTING_DAILY_AGGREGATE_MANUAL_LIST"
+    ]
+  },
+  {
+    "brp_id": 6,
+    "environment_name": "WH ES",
+    "folder": "WH ES",
+    "status": "active",
+    "views": [
+      "MA_DAILY_WH_ES_SESSIONS_MARKETING",
+      "MA_DAILY_WH_ES_EXCLUDE_BONUS_OPTIMIZATION",
+      "MA_DAILY_WH_ES_BLACKLIST_PLAYERS",
+      "MA_DAILY_WH_ES_UNSUBSCRIBE",
+      "MA_NRT_WH_ES_PAYMENTS_APPROVED",
+      "MA_NRT_WH_ES_BETS",
+      "MA_NRT_WH_ES_BET_LEGS",
+      "MA_NRT_WH_ES_BET_SELECTION",
+      "MA_NRT_WH_ES_CUSTOMER_REG_CONSENT",
+      "MA_DAILY_WH_ES_ROYAL_DECREE",
+      "MA_DAILY_WH_ES_CUSTOME_BETTING_DAILY_AGGREGATE_MANUAL_LIST",
+      "MA_DAILY_WH_ES_UNSCHEDULED_DATA_READY",
+      "MA_NRT_WH_WH_ES_STAKES_RIGA_AGG",
+      "MA_NRT_WH_WH_ES_WINNING_RIGA_AGG",
+      "MA_DAILY_SC_BLACKLIST_PLAYERS_WH_ES",
+      "MA_NRT_WH_CUSTOMER_BALANCE_ES",
+      "MA_DAILY_WH_ES_DEPOSIT_HEADROOM",
+      "MA_NRT_WH_WH_ES_NRT_BONUS_ENRICHMENT",
+      "MA_DAILY_WH_ES_SC_5K_WINNERS",
+      "MA_DAILY_WH_ES_SC_VULNERABLE_PLAYERS"
+    ]
+  },
+  {
+    "brp_id": 7,
+    "environment_name": "888 ES",
+    "folder": "888 ES",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_ES_SESSIONS_MARKETING",
+      "MA_DAILY_888_ES_BLACKLIST",
+      "MA_DAILY_888_ES_JACKPOTS",
+      "MA_DAILY_888_ES_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_888_ES_DEPOSIT_HEADROOM",
+      "MA_DAILY_888_ES_CASINO_BETS_DAILY",
+      "MA_DAILY_888_ES_SPORT_BETS_DAILY",
+      "MA_DAILY_888_ES_DEPOSIT_DAILY_AGG",
+      "MA_DAILY_888_ES_BETS_DAILY_AGG",
+      "MA_DAILY_888_ES_UNSUBSCRIBE"
+    ]
+  },
+  {
+    "brp_id": 8,
+    "environment_name": "WH ROW",
+    "folder": "WH ROW",
+    "status": "active",
+    "views": [
+      "MA_DAILY_WH_ROW_SESSIONS_MARKETING",
+      "MA_DAILY_WH_ROW_EXCLUDE_BONUS_OPTIMIZATION",
+      "MA_DAILY_WH_ROW_BLACKLIST_PLAYERS",
+      "MA_DAILY_WH_ROW_UNSUBSCRIBE",
+      "MA_DAILY_WH_ROW_SUPERCONTROL",
+      "MA_NRT_WH_ROW_CUSTOMER_REG_CONSENT",
+      "MA_NRT_WH_ROW_BETS",
+      "MA_NRT_WH_ROW_BET_LEGS",
+      "MA_NRT_WH_ROW_BET_SELECTION",
+      "MA_DAILY_WH_ROW_UNSCHEDULED_DATA_READY",
+      "MA_NRT_WH_WH_ROW_STAKES_RIGA_AGG",
+      "MA_NRT_WH_WH_ROW_WINNING_RIGA_AGG"
+    ]
+  },
+  {
+    "brp_id": 9,
+    "environment_name": "MRG DK",
+    "folder": "MRG DK",
+    "status": "active",
+    "views": [
+      "MA_DAILY_MRG_DK_SESSIONS_MARKETING",
+      "MA_DAILY_MRG_DK_BLACKLIST",
+      "MA_DAILY_MRG_DK_SUPERCONTROL",
+      "MA_DAILY_MRG_DK_UNSUBSCRIBE",
+      "MA_DAILY_MRG_DK_UNSCHEDULED_DATA_READY"
+    ]
+  },
+  {
+    "brp_id": 10,
+    "environment_name": "888 IR",
+    "folder": "888 IR",
+    "status": "active",
+    "views": [
+      "MA_DAILY_IR_SESSIONS_MARKETING_888",
+      "MA_DAILY_888_IR_BLACKLIST",
+      "MA_DAILY_888_IR_SUPERCONTROL",
+      "MA_DAILY_888_IR_UNSUBSCRIBE",
+      "MA_DAILY_888_IR_UNSCHEDULED_DATA_READY"
+    ]
+  },
+  {
+    "brp_id": 11,
+    "environment_name": "888 DE",
+    "folder": "888 DE",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_DE_SESSIONS_MARKETING",
+      "MA_DAILY_888_DE_BLACKLIST",
+      "MA_DAILY_888_DE_SUPERCONTROL",
+      "MA_DAILY_888_DE_UNSUBSCRIBE",
+      "MA_DAILY_888_DE_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_888_DE_WINNING_CASINO_BETS_DAILY",
+      "MA_DAILY_888_DE_DEPOSIT_DAILY_AGG",
+      "MA_DAILY_888_DE_SPORT_BETS_DAILY",
+      "MA_DAILY_888_DE_BETS_DAILY_AGG"
+    ]
+  },
+  {
+    "brp_id": 12,
+    "environment_name": "888 DK",
+    "folder": "888 DK",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_DK_SESSIONS_MARKETING",
+      "MA_DAILY_888_DK_BLACKLIST",
+      "MA_DAILY_888_DK_SUPERCONTROL",
+      "MA_DAILY_888_DK_UNSUBSCRIBE",
+      "MA_DAILY_888_DK_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_888_DK_WINNING_CASINO_BETS_DAILY",
+      "MA_DAILY_888_DK_SPORT_BETS_DAILY",
+      "MA_DAILY_888_DK_BETS_DAILY_AGG",
+      "MA_DAILY_888_DK_DEPOSIT_DAILY_AGG"
+    ]
+  },
+  {
+    "brp_id": 13,
+    "environment_name": "MRG DE",
+    "folder": "MRG DE",
+    "status": "active",
+    "views": [
+      "MA_DAILY_MRG_DE_SESSIONS_MARKETING",
+      "MA_DAILY_MRG_DE_BLACKLIST",
+      "MA_DAILY_MRG_DE_SUPERCONTROL",
+      "MA_DAILY_MRG_DE_UNSUBSCRIBE",
+      "MA_DAILY_MRG_DE_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_888_MRG_DE_WINNING_CASINO_BETS_DAILY",
+      "MA_DAILY_888_MRG_DE_DEPOSIT_DAILY_AGG",
+      "MA_DAILY_888_MRG_DE_SPORT_BETS_DAILY",
+      "MA_DAILY_888_MRG_DE_BETS_DAILY_AGG"
+    ]
+  },
+  {
+    "brp_id": 14,
+    "environment_name": "888 CA",
+    "folder": "888 CA",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_CA_SESSIONS_MARKETING",
+      "MA_DAILY_888_CA_BLACKLIST",
+      "MA_DAILY_888_CA_SUPERCONTROL",
+      "MA_DAILY_888_CA_UNSUBSCRIBE",
+      "MA_DAILY_888_CA_UNSCHEDULED_DATA_READY"
+    ]
+  },
+  {
+    "brp_id": 15,
+    "environment_name": "888 ROW",
+    "folder": "888 ROW",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_ROW_SESSIONS_MARKETING",
+      "MA_DAILY_888_ROW_BLACKLIST",
+      "MA_DAILY_888_ROW_UNSUBSCRIBE",
+      "MA_DAILY_888_ROW_UNSCHEDULED_DATA_READY"
+    ]
+  },
+  {
+    "brp_id": 16,
+    "environment_name": "888 SE",
+    "folder": "888 SE",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_SE_SESSIONS_MARKETING",
+      "MA_DAILY_888_SE_BLACKLIST",
+      "MA_DAILY_888_SE_SUPERCONTROL",
+      "MA_DAILY_888_SE_UNSUBSCRIBE",
+      "MA_DAILY_888_SE_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_888_SE_WINNING_CASINO_BETS_DAILY",
+      "MA_DAILY_888_SE_SPORT_BETS_DAILY",
+      "MA_DAILY_888_SE_BETS_DAILY_AGG",
+      "MA_DAILY_888_SE_DEPOSIT_DAILY_AGG"
+    ]
+  },
+  {
+    "brp_id": 17,
+    "environment_name": "MRG SE",
+    "folder": "MRG SE",
+    "status": "active",
+    "views": [
+      "MA_DAILY_MRG_SE_SESSIONS_MARKETING",
+      "MA_DAILY_MRG_SE_BLACKLIST",
+      "MA_DAILY_MRG_SE_SUPERCONTROL",
+      "MA_DAILY_MRG_SE_UNSUBSCRIBE",
+      "MA_DAILY_MRG_SE_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_MRG_SE_WINNING_CASINO_BETS_DAILY",
+      "MA_DAILY_MRG_SE_SPORT_BETS_DAILY",
+      "MA_DAILY_MRG_SE_BETS_DAILY_AGG",
+      "MA_DAILY_MRG_SE_DEPOSIT_DAILY_AGG"
+    ]
+  },
+  {
+    "brp_id": 18,
+    "environment_name": "888 ROW(Poker)",
+    "folder": "888 ROW(Poker)",
+    "status": "reserved",
+    "views": []
+  },
+  {
+    "brp_id": 19,
+    "environment_name": "MRG AT",
+    "folder": "MRG AT",
+    "status": "active",
+    "views": [
+      "MA_DAILY_MRG_AT_SESSIONS_MARKETING",
+      "MA_DAILY_MRG_AT_BLACKLIST",
+      "MA_DAILY_MRG_AT_SUPERCONTROL",
+      "MA_DAILY_MRG_AT_UNSUBSCRIBE",
+      "MA_DAILY_MRG_AT_UNSCHEDULED_DATA_READY"
+    ]
+  },
+  {
+    "brp_id": 20,
+    "environment_name": "MRG ROW",
+    "folder": "MRG ROW",
+    "status": "active",
+    "views": [
+      "MA_DAILY_MRG_ROW_SESSIONS_MARKETING",
+      "MA_DAILY_MRG_ROW_BLACKLIST",
+      "MA_DAILY_MRG_ROW_SUPERCONTROL",
+      "MA_DAILY_MRG_ROW_UNSUBSCRIBE",
+      "MA_DAILY_MRG_ROW_UNSCHEDULED_DATA_READY"
+    ]
+  },
+  {
+    "brp_id": 21,
+    "environment_name": "888 PT",
+    "folder": "888 PT",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_PT_SESSIONS_MARKETING",
+      "MA_DAILY_888_PT_BLACKLIST",
+      "MA_DAILY_888_PT_SUPERCONTROL",
+      "MA_DAILY_888_PT_UNSUBSCRIBE",
+      "MA_DAILY_888_PT_UNSCHEDULED_DATA_READY"
+    ]
+  },
+  {
+    "brp_id": 22,
+    "environment_name": "888 AT",
+    "folder": "888 AT",
+    "status": "reserved",
+    "views": []
+  },
+  {
+    "brp_id": 23,
+    "environment_name": "888 POKER",
+    "folder": "888 POKER",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_POKER_SESSIONS_MARKETING",
+      "MA_DAILY_888_POKER_BLACKLIST",
+      "MA_DAILY_888_POKER_UNSUBSCRIBE",
+      "MA_DAILY_888_POKER_UNSCHEDULED_DATA_READY"
+    ]
+  },
+  {
+    "brp_id": 24,
+    "environment_name": "888 AT (כפול)",
+    "folder": "888 AT (BRP_ID 24)",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_AT_SUPERCONTROL",
+      "MA_DAILY_888_AT_SESSIONS_MARKETING",
+      "MA_DAILY_888_AT_LAST_WEEK_BLACKLIST",
+      "MA_DAILY_888_AT_WINNING_CASINO_BETS_DAILY",
+      "MA_DAILY_888_AT_GAMING_ANTI_CHURN",
+      "MA_DAILY_888_AT_UNSCHEDULED_DATA_READY",
+      "MA_DAILY_888_AT_DEPOSIT_DAILY_AGG",
+      "MA_DAILY_888_AT_SPORT_BETS_DAILY",
+      "MA_DAILY_888_AT_BETS_DAILY_AGG"
+    ]
+  },
+  {
+    "brp_id": 25,
+    "environment_name": "888 CA-AB",
+    "folder": "888 CA-AB",
+    "status": "active",
+    "views": [
+      "MA_DAILY_888_CA_AB_SESSIONS_MARKETING",
+      "MA_DAILY_888_CA_AB_SUPERCONTROL",
+      "MA_DAILY_888_CA_AB_LAST_WEEK_BLACKLIST",
+      "MA_DAILY_888_CA_AB_WINNING_CASINO_BETS_DAILY",
+      "MA_DAILY_888_CA_AB_GAMING_ANTI_CHURN",
+      "MA_DAILY_888_CA_AB_DEPOSIT_DAILY_AGG",
+      "MA_DAILY_888_CA_AB_SPORT_BETS_DAILY",
+      "MA_DAILY_888_CA_AB_BETS_DAILY_AGG",
+      "MA_DAILY_888_CA_AB_UNSCHEDULED_DATA_READY"
+    ]
+  }
+]

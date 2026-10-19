@@ -1,0 +1,5 @@
+-- View: MA_FULL_WH_UK_SPORT_BETS_OTHER
+-- Environment: WH UK
+-- BRP_ID: 1
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

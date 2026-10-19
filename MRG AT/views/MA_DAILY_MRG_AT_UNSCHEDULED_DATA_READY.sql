@@ -1,0 +1,5 @@
+-- View: MA_DAILY_MRG_AT_UNSCHEDULED_DATA_READY
+-- Environment: MRG AT
+-- BRP_ID: 19
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

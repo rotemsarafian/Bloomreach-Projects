@@ -1,0 +1,5 @@
+-- View: MA_DAILY_EXALOGIC_BLACKLIST_PRODUCT_TEST
+-- Environment: Exalogic
+-- BRP_ID: 3
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

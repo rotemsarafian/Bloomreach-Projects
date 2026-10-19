@@ -1,0 +1,5 @@
+-- View: MA_DAILY_888_ES_BETS_DAILY_AGG
+-- Environment: 888 ES
+-- BRP_ID: 7
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

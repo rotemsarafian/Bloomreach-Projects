@@ -1,0 +1,5 @@
+-- View: MA_DAILY_WINNING_ACCA_BETS
+-- Environment: WH UK
+-- BRP_ID: 1
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.
