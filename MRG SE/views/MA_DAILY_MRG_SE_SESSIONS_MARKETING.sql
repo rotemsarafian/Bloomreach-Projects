@@ -1,0 +1,5 @@
+-- View: MA_DAILY_MRG_SE_SESSIONS_MARKETING
+-- Environment: MRG SE
+-- BRP_ID: 17
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

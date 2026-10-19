@@ -1,0 +1,5 @@
+-- View: MA_DAILY_888_CA_SESSIONS_MARKETING
+-- Environment: 888 CA
+-- BRP_ID: 14
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

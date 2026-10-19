@@ -1,0 +1,5 @@
+-- View: MA_FULL_SESSIONS_MARKETING_EXALOGIC
+-- Environment: Exalogic
+-- BRP_ID: 3
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

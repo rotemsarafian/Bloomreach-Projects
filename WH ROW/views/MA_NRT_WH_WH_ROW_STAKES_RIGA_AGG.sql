@@ -1,0 +1,5 @@
+-- View: MA_NRT_WH_WH_ROW_STAKES_RIGA_AGG
+-- Environment: WH ROW
+-- BRP_ID: 8
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

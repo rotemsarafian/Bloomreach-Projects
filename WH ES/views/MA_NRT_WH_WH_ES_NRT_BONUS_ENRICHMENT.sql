@@ -1,0 +1,5 @@
+-- View: MA_NRT_WH_WH_ES_NRT_BONUS_ENRICHMENT
+-- Environment: WH ES
+-- BRP_ID: 6
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

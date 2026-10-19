@@ -1,0 +1,5 @@
+-- View: MA_DAILY_WH_IR_SPORT_BETS_RACING
+-- Environment: WH IR
+-- BRP_ID: 5
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

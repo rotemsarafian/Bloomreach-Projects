@@ -1,0 +1,5 @@
+-- View: MA_DAILY_888_MRG_DE_BETS_DAILY_AGG
+-- Environment: MRG DE
+-- BRP_ID: 13
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

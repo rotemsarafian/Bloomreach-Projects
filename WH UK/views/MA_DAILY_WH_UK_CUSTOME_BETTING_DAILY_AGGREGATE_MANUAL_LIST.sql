@@ -1,0 +1,5 @@
+-- View: MA_DAILY_WH_UK_CUSTOME_BETTING_DAILY_AGGREGATE_MANUAL_LIST
+-- Environment: WH UK
+-- BRP_ID: 1
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

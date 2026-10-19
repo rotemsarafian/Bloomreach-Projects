@@ -1,0 +1,5 @@
+-- View: MA_NRT_WH_ES_BET_SELECTION
+-- Environment: WH ES
+-- BRP_ID: 6
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

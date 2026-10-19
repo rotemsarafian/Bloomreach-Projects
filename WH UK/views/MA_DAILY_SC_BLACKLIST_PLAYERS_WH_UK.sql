@@ -1,0 +1,5 @@
+-- View: MA_DAILY_SC_BLACKLIST_PLAYERS_WH_UK
+-- Environment: WH UK
+-- BRP_ID: 1
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.

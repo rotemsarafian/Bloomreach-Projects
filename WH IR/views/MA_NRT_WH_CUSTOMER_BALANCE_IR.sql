@@ -1,0 +1,5 @@
+-- View: MA_NRT_WH_CUSTOMER_BALANCE_IR
+-- Environment: WH IR
+-- BRP_ID: 5
+-- Status: placeholder; SQL definition has not been supplied.
+-- TODO: Add the verified view definition before deployment.
